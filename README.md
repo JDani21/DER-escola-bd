@@ -1,1 +1,3 @@
-# DER-escola-bd
+# banco-escola
+
+<img src="banco_escola.PNG">
